@@ -11,14 +11,11 @@
 
 <h2>🚀 Tech Stack</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css" alt="TailwindCSS"/>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,git,github" alt="My Skills"/>
+  </a>
+</div>
 
 <hr />
 
@@ -34,9 +31,9 @@
 
 <h2>📫 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/bharatanilnavratna/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
