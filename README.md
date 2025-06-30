@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,git,github" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,prisma,supabase,git,github" alt="My Skills"/>
   </a>
 </div>
 
