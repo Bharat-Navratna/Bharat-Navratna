@@ -1,9 +1,9 @@
-<div align="center">
+<div>
 
-  <h1>👋 Hi there! I'm Bharat</h1>
+  <h1>👋Hi there! I'm Bharat</h1>
 
-  <p>🎓 MSc in Data Science & Analytics | 💻 Front-End Developer</p>
-  <p>🎨 Passionate about building elegant UIs and smooth user experiences.</p>
+  <p align="center">🎓 MSc in Data Science & Analytics | 💻 Front-End Developer</p>
+  <p align="center">🎨 Passionate about building elegant UIs and smooth user experiences.</p>
 
 </div>
 
@@ -21,11 +21,9 @@
 
 <h2>✨ Featured Projects</h2>
 
-<ul>
-  <li>
-    🧠 <strong><a href="https://github.com/Bharat-Navratna/WelthWorx-AI" target="_blank">WelthWorx AI - Full Stack AI Finance Platform with Next JS and React</a></strong>
-  </li>
-</ul>
+<div align="center">
+      🧠 <strong><a href="https://github.com/Bharat-Navratna/WelthWorx-AI" target="_blank">WelthWorx AI - Full Stack AI Finance Platform with Next JS and React</a></strong>
+</div>
 
 <hr />
 
