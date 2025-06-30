@@ -16,15 +16,12 @@
 ---
 
 ## ✨ Featured Projects
-- 🕹️ [**Tic Tac Toe - React**](https://github.com/anuj-dev/tic-tac-toe-react) – Classic game rebuilt with React
-- 📊 [**Sales Dashboard - Power BI**](https://github.com/anuj-dev/sales-dashboard-powerbi) – Visualized business insights
-- 🧬 [**DNA Simulator**](https://github.com/anuj-dev/dna-simulator) – JavaScript logic-heavy simulation
+- 🧠 [**WelthWorx AI - Full Stack AI Finance Platform with Next JS and React**]([https://github.com/your-username/ai-finance-platform](https://github.com/Bharat-Navratna/WelthWorx-AI))
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharatanilnavratna/)
 
 ---
 
