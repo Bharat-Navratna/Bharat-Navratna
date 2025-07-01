@@ -33,6 +33,9 @@
   <a href="https://www.linkedin.com/in/bharatanilnavratna/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+  <a href="mailto:bnavratna@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
+  </a>
 </p>
 
 <hr />
