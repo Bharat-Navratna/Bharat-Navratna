@@ -1,26 +1,95 @@
 <div align="center">
-👋 Hi, I’m <span style="color:gold;">Bharat</span>
 
-🎓 MSc in Data Science & Analytics | 💻 Front-End Developer | 🌱 Lifelong Learner
+# ✨ Bharat Navratna  
+### Frontend Developer • React & Next.js • Interactive & Performance-Focused UI Engineering  
 
-<p> I enjoy exploring new technologies and creating elegant, user-friendly experiences. Currently diving deeper into modern front-end and full-stack development while building real-world projects. </p> </div>
+I build fluid, high-performance interfaces where engineering meets creative motion.
 
-<br/><br/>
+</div>
 
-🚀 Tech Stack
-<br/> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,typescript,nodejs,threejs,prisma,supabase,git,github" alt="Tech Stack" /> </div>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-✨ Featured Project
-<br/> <div align="center"> 🧠 <strong><a href="https://github.com/Bharat-Navratna/WelthWorx-AI" target="_blank">WelthWorx AI</a></strong> – Full-Stack AI Finance Platform (Next.js + React) </div>
+## 🚀 Tech Stack  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,figma,git,github&perline=9" height="38" />
 
-<br/><br/>
+### Additional Tools  
+Prisma • Supabase • GSAP • Framer Motion • Three.js • Jest • Cypress • Vercel • REST APIs  
 
-📫 Let’s Connect
-<br/> <p align="center"> <a href="https://www.linkedin.com/in/bharatanilnavratna/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> <a href="mailto:bnavratna@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/> </a> </p>
+</div>
 
-<br/><br/>
+<br/>
 
-🌟 Personal Note
-<br/> <blockquote align="center"> <em>“Curiosity drives my learning, and creativity shapes my code.”</em> </blockquote> <p align="center"> 🚧 <strong>More exciting projects are on the way — keep checking this space for updates!</strong> </p>
+<div align="center">
+
+## 🌟 Featured Projects  
+
+</div>
+
+### 🧠 **[WelthWorx AI](https://github.com/Bharat-Navratna/WelthWorx-AI)**  
+**AI-powered Personal Finance Platform (Next.js + Prisma + Supabase + Gemini AI)**  
+- Automated financial data extraction using **Google Gemini AI**, eliminating manual effort.  
+- Achieved **100/100 Accessibility**, **100 SEO**, **95+ Performance** on Lighthouse.  
+- Built using **Prisma ORM**, **Supabase**, **Clerk Auth**, **Inngest**, and **Resend**.
+
+<br/>
+
+### 🎨 **[ExoApe](https://github.com/Bharat-Navratna/ExoApe)**  
+**Interactive Motion Experience (React + Tailwind + GSAP + Framer Motion)**  
+- Crafted an immersive motion-heavy UI inspired by modern creative websites.  
+- Integrated **GSAP, Framer Motion**, and **Locomotive Scroll** for smooth interactions.  
+- Optimized UI for performance: **1.76s LCP**, **0 CLS**, **97 Accessibility**.
+
+<br/>
+
+<div align="center">
+
+## 📘 Research  
+<img src="https://skillicons.dev/icons?i=python" height="38" />
+
+</div>
+
+### ⏱️ **Traffic Delay Forecasting (Machine Learning)**  
+Analyzed 2M+ traffic records using XGBoost, Random Forest, and RNNs, achieving **R² = 0.74**.
+
+<br/>
+
+<div align="center">
+
+## 💃 Beyond Code: My Creative Edge  
+
+</div>
+
+Outside development, I’ve led a **20-member dance crew** to a **Top-3 national finish**.  
+This shapes my engineering style through:  
+- **Fluid motion influenced by animation and video editing**  
+- **Precise timing across transitions and interactions**  
+- **Visual storytelling carried from editing into interface design**  
+- **Discipline and collaboration shaped through performance arts**
+
+<br/>
+
+<div align="center">
+
+## 📫 Connect  
+<a href="https://www.linkedin.com/in/bharatanilnavratna/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+</a>
+<a href="mailto:bnavratna@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+</a>
+<!-- <a href="https://github.com/Bharat-Navratna">
+  <img src="https://skillicons.dev/icons?i=github" height="38" />
+</a> -->
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *“Creativity shapes my craft. Precision drives my code.”*  
+<br>🛠️ **More projects in progress — stay tuned.**
+
+</div>
