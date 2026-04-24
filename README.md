@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Bharat Navratna  
+# Bharat Navratna  
 ### Frontend Developer • React & Next.js • Interactive & Performance-Focused UI Engineering  
 
 I build fluid, high-performance interfaces where engineering meets creative motion.
@@ -11,7 +11,7 @@ I build fluid, high-performance interfaces where engineering meets creative moti
 
 <div align="center">
 
-## 🚀 Tech Stack  
+## Tech Stack  
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,figma,git,github&perline=9" height="38" />
 
 ### Additional Tools  
@@ -23,11 +23,11 @@ Prisma • Supabase • GSAP • Framer Motion • Three.js • Jest • Cypress
 
 <div align="center">
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 </div>
 
-### 🧠 **[WelthWorx AI](https://github.com/Bharat-Navratna/WelthWorx-AI)**  
+### **[WelthWorx AI](https://github.com/Bharat-Navratna/WelthWorx-AI)**  
 **AI-powered Personal Finance Platform (Next.js + Prisma + Supabase + Gemini AI)**  
 - Automated financial data extraction using **Google Gemini AI**, eliminating manual effort.  
 - Achieved **100/100 Accessibility**, **100 SEO**, **95+ Performance** on Lighthouse.  
@@ -35,7 +35,7 @@ Prisma • Supabase • GSAP • Framer Motion • Three.js • Jest • Cypress
 
 <br/>
 
-### 🎨 **[ExoApe](https://github.com/Bharat-Navratna/ExoApe)**  
+### **[ExoApe](https://github.com/Bharat-Navratna/ExoApe)**  
 **Interactive Motion Experience (React + Tailwind + GSAP + Framer Motion)**  
 - Crafted an immersive motion-heavy UI inspired by modern creative websites.  
 - Integrated **GSAP, Framer Motion**, and **Locomotive Scroll** for smooth interactions.  
@@ -45,19 +45,19 @@ Prisma • Supabase • GSAP • Framer Motion • Three.js • Jest • Cypress
 
 <div align="center">
 
-## 📘 Research  
+## Research  
 <img src="https://skillicons.dev/icons?i=python" height="38" />
 
 </div>
 
-### ⏱️ **Traffic Delay Forecasting (Machine Learning)**  
+### **Traffic Delay Forecasting (Machine Learning)**  
 Analyzed 2M+ traffic records using XGBoost, Random Forest, and RNNs, achieving **R² = 0.74**.
 
 <br/>
 
 <div align="center">
 
-## 💃 Beyond Code: My Creative Edge  
+## Beyond Code: My Creative Edge  
 
 </div>
 
@@ -72,7 +72,7 @@ This shapes my engineering style through:
 
 <div align="center">
 
-## 📫 Connect  
+## Connect  
 <a href="https://www.linkedin.com/in/bharatanilnavratna/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
 </a>
@@ -89,7 +89,7 @@ This shapes my engineering style through:
 
 <div align="center">
 
-✨ *“Creativity shapes my craft. Precision drives my code.”*  
-<br>🛠️ **More projects in progress — stay tuned.**
+*“Creativity shapes my craft. Precision drives my code.”*  
+<br> **More projects in progress — stay tuned.**
 
 </div>
