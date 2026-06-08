@@ -1,7 +1,7 @@
 <div align="center">
 
 # Bharat Navratna  
-### Frontend Developer • React & Next.js • Interactive & Performance-Focused UI Engineering  
+### Software Engineer • React & Next.js • Interactive & Performance-Focused UI Engineering  
 
 I build fluid, high-performance interfaces where engineering meets creative motion.
 
