@@ -4,11 +4,12 @@
 
 ### Software Engineer · Full-Stack Systems · Fintech · Applied AI
 
-I build reliable product systems across payments, financial operations and AI — from polished interfaces to APIs, data models, stateful workflows and automated delivery.
+I build reliable product systems across payments, financial operations and AI from polished interfaces to APIs, data models, stateful workflows and automated delivery.
 
 `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `Python`
 
-📍 London, UK  ·  [LinkedIn](https://www.linkedin.com/in/bharatanilnavratna)
+📍 London, UK
+[LinkedIn](https://www.linkedin.com/in/bharatanilnavratna)
 
 </div>
 
@@ -147,7 +148,7 @@ Dance is another.
 
 I've led a **20-member dance crew to a Top-3 national finish**, and years of performing have made me unusually attentive to timing, iteration, collaboration and how small details affect the overall experience.
 
-That creative instinct still shows up in the products and interfaces I build — just with engineering discipline underneath it.
+That creative instinct still shows up in the products and interfaces I build just with engineering discipline underneath it.
 
 ---
 
