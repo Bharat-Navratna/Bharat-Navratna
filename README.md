@@ -22,7 +22,7 @@ I build reliable product systems across payments, financial operations and AI fr
 
 ### Product Engineering
 
-Turning complex requirements into clear, usable full-stack products — from customer-facing interfaces to operational workflows.
+Turning complex requirements into clear, usable full-stack products from customer-facing interfaces to operational workflows.
 
 </td>
 <td width="33%" valign="top">
