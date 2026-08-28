@@ -8,8 +8,7 @@ I build reliable product systems across payments, financial operations and AI fr
 
 `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `Python`
 
-📍 London, UK
-[LinkedIn](https://www.linkedin.com/in/bharatanilnavratna)
+📍 London, UK 
 
 </div>
 
