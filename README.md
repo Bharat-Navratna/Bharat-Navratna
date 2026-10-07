@@ -2,9 +2,9 @@
 
 # Bharat Navratna
 
-### Software Engineer · Full-Stack Systems · Fintech · Applied AI
+### Software Engineer · Full-Stack Systems · Applied AI
 
-I build reliable product systems across payments, financial operations and AI from polished interfaces to APIs, data models, stateful workflows and automated delivery.
+I build reliable product systems across payments, operations and AI from polished interfaces to APIs, data models, stateful workflows and automated delivery.
 
 `TypeScript` · `Next.js` · `Node.js` · `PostgreSQL` · `Python`
 
